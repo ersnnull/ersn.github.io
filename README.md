@@ -1,2 +1,2 @@
 # ersn.github.io
-worst website ever
+worst website ever. go away
