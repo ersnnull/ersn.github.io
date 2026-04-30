@@ -1,0 +1,15 @@
+html {
+	font-family: Arial;
+}
+body {
+	background-color: #3f3f3f;
+}
+.bigtext {
+	font-weight: bold;
+	color: #ffffff;
+}
+.center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
